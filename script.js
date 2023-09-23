@@ -25,6 +25,7 @@ $(document).ready(function () {
     var value = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id").split("-")[1];
     localStorage.setItem(time, value);
+    $("#clearItemsBtn").removeClass("hide");
   });
 
   $("#hour-09 .description").val(localStorage.getItem("09"));
@@ -41,6 +42,7 @@ $(document).ready(function () {
     event.preventDefault;
     $("textarea").val("");
     localStorage.clear();
+    $(this).addClass("hide");
   });
 
 });
