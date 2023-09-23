@@ -37,4 +37,10 @@ $(document).ready(function () {
   $("#hour-16 .description").val(localStorage.getItem("16"));
   $("#hour-17 .description").val(localStorage.getItem("17"));
 
+  $("#clearItemsBtn").click(function (event) {
+    event.preventDefault;
+    $("textarea").val("");
+    localStorage.clear();
+  });
+
 });
