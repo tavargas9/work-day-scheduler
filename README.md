@@ -39,6 +39,8 @@ THEN the saved events persist
 
 ## Technologies Used
 
+HTML, CSS, JavaScript, jQuery, Bootstrap, DayJs
+
 ## License
 
 This is available under the MIT License. See LICENSE in the repo for more information.
