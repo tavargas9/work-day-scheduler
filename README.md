@@ -39,7 +39,7 @@ THEN the saved events persist
 
 ## Usage
 
-To use this application, go to the deployed website [here](https://youtube.com/).
+To use this application, go to the deployed website [here](https://tavargas9.github.io/work-day-scheduler/).
 
 ![Screenshot 2023-09-25 at 8 50 52 PM](https://github.com/tavargas9/work-day-scheduler/assets/142061829/79914004-b8c8-44a6-8a83-87a6427a55af)
 
