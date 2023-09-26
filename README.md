@@ -1,5 +1,5 @@
 # Work Day Scheduler
-![badge](https://img.shields.io/badge/MIT-License-blue.svg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![badge](https://img.shields.io/badge/MIT-License-blue.svg) ![Awesome](https://awesome.re/badge.svg)
 
 A simple daily planner application that allows the user to save items to their work day schedule on a per hour basis (9am-5pm).
 
@@ -39,6 +39,14 @@ THEN the saved events persist
 
 ## Usage
 
+To use this application, go to the deployed website [here](https://youtube.com/).
+
+![Screenshot 2023-09-25 at 8 50 52 PM](https://github.com/tavargas9/work-day-scheduler/assets/142061829/79914004-b8c8-44a6-8a83-87a6427a55af)
+
+- Each hour is color coded by whether it is in past (grey), present (red), or future (green).
+- To add an event to your schedule, type it into the text box and click the corresponding "save" icon to the right of the box. The event will be saved to local storage.
+- To edit or change an event, click on the corresponding text box and change/add text. Hit the "save" icon and the changes will be saved to local storage.
+- To clear your schedule, hit the "Clear items" button at the top of the page.
 
 
 ## Technologies Used
