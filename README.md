@@ -1,5 +1,5 @@
 # Work Day Scheduler
-![badge](https://img.shields.io/badge/MIT-License-blue.svg)
+![badge](https://img.shields.io/badge/MIT-License-blue.svg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A simple daily planner application that allows the user to save items to their work day schedule on a per hour basis (9am-5pm).
 
