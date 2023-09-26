@@ -1,6 +1,8 @@
 # Work Day Scheduler
 ![badge](https://img.shields.io/badge/MIT-License-blue.svg)
 
+A simple daily planner application that allows the user to save items to their work day schedule on a per hour basis (9am-5pm).
+
 ## Table of Contents
 
 - [User Story](#user-story)
@@ -24,7 +26,7 @@ GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
 WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours of 9am&ndash;5pm
+THEN I am presented with timeblocks for standard business hours of 9am-5pm
 WHEN I view the timeblocks for that day
 THEN each timeblock is color coded to indicate whether it is in the past, present, or future
 WHEN I click into a timeblock
@@ -37,9 +39,11 @@ THEN the saved events persist
 
 ## Usage
 
+
+
 ## Technologies Used
 
-HTML, CSS, JavaScript, jQuery, Bootstrap, DayJs
+HTML, CSS, JavaScript, jQuery, Bootstrap, Day.js
 
 ## License
 
